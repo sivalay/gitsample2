@@ -79,22 +79,3 @@ chmod - To change d permissions of a file or directory.
 
 
 ------------------------
-
-Git Commands Note
-
-git init - Git creates a backup folder structure.
-git ignore - Git ignores the files and folders that don't want to backup.
-git commit - Git will create commit ID as files and folders.
-git log - Can see the list of commit's that we used.
-snapshot - Each commit is a snapshot.Get the complete project information.
-git add - Picking of the files that want to commit.
-git checkout - Command to get the snapshot.
-Head - The last commit.
-git reset - Reseting of the HEAD.
-git branch - Light wiegth,can create any number of branches.Similar to folders.
-git merge - To merge the changes into one branch to another branch.
-Conflict - The branches that cannot merge.
-git cherr-pick - To pick a specific commit form a branch to another.
-git diff - Give the difference of to files.
-git clone - Get collaboration link.
-git status - Give the current status of the program.
