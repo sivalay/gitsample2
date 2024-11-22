@@ -21,6 +21,8 @@ git status - Give the current status of the program.
 git push - To push the code to repository.
 git push -f - Force push.
 git pull - To get the latest code.
+git pull --rebase
+git pull origin main --rebase
 git fetch - Update the changes in server and get the information about new branch.
 ssh-keygen -C "emailID" - To generate key pair.
 git rebase - Helps preventing non-linear history.
