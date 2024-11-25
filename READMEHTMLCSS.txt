@@ -14,6 +14,8 @@ HTML5 sementic tags :
 1. <header> - For the header of a website.eg:for navbar
 1. <footer> - For the footer of a website.eg:for adress
 
+CSS notes
+
 CSS psuedo classes :
 ::after - Insert element after every <p> element.
 ::before - Insert content after every <p> element.
@@ -25,3 +27,14 @@ Responsive Desing :
 1.Media queries - Tell the browser how to style an element at particular viewport dimentions.
 2.viewport meta tog - Tells the browser what the viewport should be.
 3.Responsive Images - Only load smaller images for mobile devices.
+
+Position Property :
+1. relative
+2. static
+3. absolute
+4. fixed
+5. inherit
+
+Responsive Desing : Fuid vs Fixed
+--> Fluid layouts use  relative measurements and respond to width of the viewport.
+--> Fixed layouts use static measurements and don't respond to the width of the viewport.
