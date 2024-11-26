@@ -38,3 +38,10 @@ Position Property :
 Responsive Desing : Fuid vs Fixed
 --> Fluid layouts use  relative measurements and respond to width of the viewport.
 --> Fixed layouts use static measurements and don't respond to the width of the viewport.
+
+Flexbox Basics :
+Properties-->
+1.Flex Grow
+2.Flex Shrink
+3.Flex wrap
+4.Flex Basis
