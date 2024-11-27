@@ -45,3 +45,5 @@ Properties-->
 2.Flex Shrink
 3.Flex wrap
 4.Flex Basis
+5.Justify-content
+6.Flex FLow
