@@ -11,4 +11,12 @@ Responsive Desing : Fuid vs Fixed
 --> Fluid layouts use  relative measurements and respond to width of the viewport.
 --> Fixed layouts use static measurements and don't respond to the width of the viewport.
 
-
+Grid Properties :
+1.grid-template-columns :
+2.grid-auto-rows :
+3.grid-column-gap :
+4.grid-column-start :
+5.grid-column-end :
+6.grid-column :
+7.grid-area :
+8.grid-template-areas
