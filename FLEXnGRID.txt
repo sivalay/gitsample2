@@ -19,4 +19,6 @@ Grid Properties :
 5.grid-column-end :
 6.grid-column :
 7.grid-area :
-8.grid-template-areas
+8.grid-template-areas :
+9.grid-template-rows :
+10.grid-row-gap :
