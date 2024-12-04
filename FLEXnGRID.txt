@@ -5,9 +5,9 @@ Properties-->
 3.Flex wrap
 4.Flex Basis - Same like min-width property.
 5.Justify-content :(:flex-end,:flex-start,:center,:space-around,:space-between)
-6.Flex FLow :(:column,:row,:column-revers,:row-revers)
+6.Flex flow :(:column,:row,:column-revers,:row-revers)
 
-Responsive Desing : Fuid vs Fixed
+Responsive Desing : Fluid vs Fixed
 --> Fluid layouts use  relative measurements and respond to width of the viewport.
 --> Fixed layouts use static measurements and don't respond to the width of the viewport.
 
