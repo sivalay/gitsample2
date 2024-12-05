@@ -22,6 +22,11 @@ CSS psuedo classes :
 ::firstletter - Selects the first letter of every <p> element.
 ::firstline - Selects the first line of every <p> element.
 ::selection - Selects the portion of an element that is selected by a user.
+::hover
+::first-child
+::last-child
+::nth-child
+::nth-last-child
 
 Responsive Desing :
 1.Media queries - Tell the browser how to style an element at particular viewport dimentions.
