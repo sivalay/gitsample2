@@ -26,7 +26,6 @@ CSS psuedo classes :
 ::first-child
 ::last-child
 ::nth-child
-::nth-last-child
 
 Responsive Desing :
 1.Media queries - Tell the browser how to style an element at particular viewport dimentions.
