@@ -33,7 +33,7 @@ Responsive Desing :
 3.Responsive Images - Only load smaller images for mobile devices.
 
 Position Property :
-1. relative
+1. relative - can arrange anywhwre u want.
 2. static
 3. absolute
 4. fixed
