@@ -36,7 +36,7 @@ Position Property :
 1. relative - can arrange anywhwre u want.
 2. static 
 3. absolute - comes to the top of the container.
-4. fixed
+4. fixed - comes fixed.
 5. inherit
 
 
